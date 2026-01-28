@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👨‍💻 TexeiraDev  
 
-<!--
-**TexeiraDev/TexeiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheiro de Software & Cloud Engineer | Criador de Conteúdo Tech**  
+🚀 Atualmente trabalhando na [Aurora Code](https://discord.gg/auroracode)
 
-Here are some ideas to get you started:
+📩 **Entre em contato comigo:** ✉️ **aurorabotmaia@gmail.com**  
+Aberto para colaborações, projetos e oportunidades. 😊  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ Sobre mim
+
+- 🔭 **Atualmente trabalho com:** Desenvolvimento Web e soluções em Discord  
+- 🌱 **Atualmente estou aprendendo:**  HTML e CSS 
+- 👯 **Procuro colaborar em:** Projetos Open Source e aplicações web   
+- 💬 **Pergunte-me sobre:** Desenvolvimento Web, Cloud, GitHub e criação de conteúdo  
+- ⚡ **Curiosidade:** Eu amo tecnologia… e a tecnologia parece me amar de volta 😄  
+
+---
+
+## 🔗 Sobre a Aurora Code
+
+Produzo conteúdos sobre tecnologia, programação e cloud.  
+Me acompanhe nas redes sociais para não perder novidades 🚀
+
+[![Instagram](https://img.shields.io/badge/Instagram-Aurora%20Code-pink?logo=instagram&logoColor=white)](https://www.instagram.com/auroracode.dev/)
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Plataformas & Ferramentas
+![Adobe](https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 🌐 Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/auroracode.dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@auroracodebot)
+

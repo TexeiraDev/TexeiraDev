@@ -18,12 +18,12 @@ Aberto para colaborações, projetos e oportunidades. 😊
 
 ---
 
-## 🔗 Sobre a Aurora Code
+## 🔗 Sobre a Code Apps
 
 Produzo conteúdos sobre tecnologia, programação e cloud.  
 Me acompanhe nas redes sociais para não perder novidades 🚀
 
-[![Instagram](https://www.instagram.com/codeeapps/)
+[Instagram](https://www.instagram.com/codeeapps/)
 
 ---
 
@@ -46,6 +46,6 @@ Me acompanhe nas redes sociais para não perder novidades 🚀
 
 ## 🌐 Redes Sociais
 
-[![Instagram](https://www.instagram.com/codeeapps/)
+[Instagram](https://www.instagram.com/codeeapps/)
 [![YouTube](https://www.youtube.com/@codeeapps)
 

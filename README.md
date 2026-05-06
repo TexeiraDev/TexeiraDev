@@ -1,7 +1,7 @@
 # 👨‍💻 TexeiraDev  
 
 **Engenheiro de Software & Cloud Engineer | Criador de Conteúdo Tech**  
-🚀 Atualmente trabalhando na [Aurora Code](https://discord.gg/auroracode)
+🚀 Atualmente trabalhando na [Code Apps Developer](https://discord.gg/codeapps)
 
 📩 **Entre em contato comigo:** ✉️ **aurorabotmaia@gmail.com**  
 Aberto para colaborações, projetos e oportunidades. 😊  
@@ -23,7 +23,7 @@ Aberto para colaborações, projetos e oportunidades. 😊
 Produzo conteúdos sobre tecnologia, programação e cloud.  
 Me acompanhe nas redes sociais para não perder novidades 🚀
 
-[![Instagram](https://img.shields.io/badge/Instagram-Aurora%20Code-pink?logo=instagram&logoColor=white)](https://www.instagram.com/auroracode.dev/)
+[![Instagram](https://www.instagram.com/codeeapps/)
 
 ---
 
@@ -46,6 +46,6 @@ Me acompanhe nas redes sociais para não perder novidades 🚀
 
 ## 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/auroracode.dev/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@auroracodebot)
+[![Instagram](https://www.instagram.com/codeeapps/)
+[![YouTube](https://www.youtube.com/@codeeapps)
 

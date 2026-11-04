@@ -1,7 +1,7 @@
-# 👨‍💻 TexeiraDev  
+# 👨‍💻 TexeiraDeVeloper  
 
-**Engenheiro de Software & Cloud Engineer | Criador de Conteúdo Tech**  
-🚀 Atualmente trabalhando na [Code Apps Developer](https://discord.gg/codeapps)
+** Programador discord.js e Especialista em discord | Programar é melhor do que fazer programa.**  
+🚀 Atualmente trabalhando na [Aurora Code](https://discord.gg/auroracode)
 
 📩 **Entre em contato comigo:** ✉️ **aurorabotmaia@gmail.com**  
 Aberto para colaborações, projetos e oportunidades. 😊  
@@ -18,12 +18,12 @@ Aberto para colaborações, projetos e oportunidades. 😊
 
 ---
 
-## 🔗 Sobre a Code Apps
+## 🔗 Sobre a Aurora Code
 
 Produzo conteúdos sobre tecnologia, programação e cloud.  
 Me acompanhe nas redes sociais para não perder novidades 🚀
 
-[Instagram](https://www.instagram.com/codeeapps/)
+[Instagram](https://www.instagram.com/auroracodebots/)
 
 ---
 
@@ -46,6 +46,6 @@ Me acompanhe nas redes sociais para não perder novidades 🚀
 
 ## 🌐 Redes Sociais
 
-[Instagram](https://www.instagram.com/codeeapps/)
-[![YouTube](https://www.youtube.com/@codeeapps)
+[Instagram](https://www.instagram.com/auroracodebots/)
+[![YouTube](https://www.youtube.com/@Auroracodebots)
 
